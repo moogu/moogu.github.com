@@ -1,0 +1,8 @@
+---
+layout: default
+img: meeting.jpg
+category: Services
+title: Agile methodology & Training 
+description: |
+---
+We make and follow-up the projects using Scrum/Agile methodologies to deliver quality in challenging assignments. To finalize our work, we prepare presentations and offer training/coaching.
