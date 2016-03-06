@@ -1,0 +1,8 @@
+---
+layout: default
+img: mobile.jpg
+category: Services
+title: Mobile applications development
+description: |
+---
+Everything is going mobile today and your project will have a great impact using this space. We develop projects for iOS and Android from architecture/development to publishing in the Stores.
